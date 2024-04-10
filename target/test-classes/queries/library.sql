@@ -11,5 +11,9 @@ select  id from users;
 -- getAllColumnAsList --> List --> size --> EXPECTED
 -- getAllColumnAsList --> Set  --> size --> EXPECTED
 
+select * from users;
+
+
+
 
 
